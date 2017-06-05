@@ -1,0 +1,19 @@
+﻿<Window x:Class="RemovingGreenRegion.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RemovingGreenRegion"
+        mc:Ignorable="d"
+        Title="Remove Green Region" Height="350" Width="525" WindowState="Maximized" SizeChanged="Window_SizeChanged" MinWidth="800" MinHeight="500" Icon="colorPad.ico">
+    <Grid>
+        <Button x:Name="openImageButton" Content="Open Image" HorizontalAlignment="Left" Margin="20,10,0,0" VerticalAlignment="Top" Width="120" Height="25" Click="openImageButton_Click"/>
+        <Button x:Name="saveImageButton" Content="Save Image" HorizontalAlignment="Left" Margin="150,10,0,0" VerticalAlignment="Top" Width="120" Height="25" Click="saveImageButton_Click" IsEnabled="False"/>
+        <Border x:Name="beforeImageBorder" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="200" Margin="20,45,0,0" VerticalAlignment="Top" Width="200">
+            <Image x:Name="beforeImage"/>
+        </Border>
+        <Border x:Name="afterImageBorder" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="200" Margin="247,45,0,0" VerticalAlignment="Top" Width="200">
+            <Image x:Name="afterImage"/>
+        </Border>
+    </Grid>
+</Window>

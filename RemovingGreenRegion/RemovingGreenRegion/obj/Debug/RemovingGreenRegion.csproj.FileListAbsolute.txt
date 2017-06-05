@@ -1,0 +1,14 @@
+F:\Jobs\TestingJob\C#_WPF\RemovingGreenRegion\RemovingGreenRegion\bin\Debug\RemovingGreenRegion.exe.config
+F:\Jobs\TestingJob\C#_WPF\RemovingGreenRegion\RemovingGreenRegion\bin\Debug\RemovingGreenRegion.exe
+F:\Jobs\TestingJob\C#_WPF\RemovingGreenRegion\RemovingGreenRegion\bin\Debug\RemovingGreenRegion.pdb
+F:\Jobs\TestingJob\C#_WPF\RemovingGreenRegion\RemovingGreenRegion\obj\Debug\RemovingGreenRegion.csprojResolveAssemblyReference.cache
+F:\Jobs\TestingJob\C#_WPF\RemovingGreenRegion\RemovingGreenRegion\obj\Debug\MainWindow.g.cs
+F:\Jobs\TestingJob\C#_WPF\RemovingGreenRegion\RemovingGreenRegion\obj\Debug\App.g.cs
+F:\Jobs\TestingJob\C#_WPF\RemovingGreenRegion\RemovingGreenRegion\obj\Debug\RemovingGreenRegion_MarkupCompile.cache
+F:\Jobs\TestingJob\C#_WPF\RemovingGreenRegion\RemovingGreenRegion\obj\Debug\RemovingGreenRegion_MarkupCompile.lref
+F:\Jobs\TestingJob\C#_WPF\RemovingGreenRegion\RemovingGreenRegion\obj\Debug\MainWindow.baml
+F:\Jobs\TestingJob\C#_WPF\RemovingGreenRegion\RemovingGreenRegion\obj\Debug\RemovingGreenRegion.g.resources
+F:\Jobs\TestingJob\C#_WPF\RemovingGreenRegion\RemovingGreenRegion\obj\Debug\RemovingGreenRegion.Properties.Resources.resources
+F:\Jobs\TestingJob\C#_WPF\RemovingGreenRegion\RemovingGreenRegion\obj\Debug\RemovingGreenRegion.csproj.GenerateResource.Cache
+F:\Jobs\TestingJob\C#_WPF\RemovingGreenRegion\RemovingGreenRegion\obj\Debug\RemovingGreenRegion.exe
+F:\Jobs\TestingJob\C#_WPF\RemovingGreenRegion\RemovingGreenRegion\obj\Debug\RemovingGreenRegion.pdb
